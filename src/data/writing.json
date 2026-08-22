@@ -1,0 +1,53 @@
+{
+  "featured_newsletter": {
+    "title": "Sinocities",
+    "description": "My newsletter on Chinese urbanism, infrastructure, and the politics of the built environment.",
+    "url": "https://sinocities.org",
+    "label": "Visit newsletter",
+    "logo": "/logos/sinocities.jpg"
+  },
+  "articles": [
+    {
+      "title": "Embodied AI with Chinese Characteristics",
+      "source": "ChinaTalk",
+      "description": "Analysis of China’s emerging approach to embodied AI and its integration with manufacturing and infrastructure.",
+      "url": "https://www.chinatalk.media/p/embodied-ai-with-chinese-characteristics",
+      "label": "Read article",
+      "logo": "/logos/chinatalk.jpg"
+    },
+    {
+      "title": "China’s Techno-Natural Utopia: A Deep Dive into Xiong’an",
+      "source": "The China Project",
+      "description": "Exploration of Xiong’an as a site of techno-natural experimentation and state-led urban futures.",
+      "url": "https://thechinaproject.com/2023/04/03/chinas-techno-natural-utopia-a-deep-dive-into-xiongan/",
+      "label": "Read article",
+      "logo": "/logos/chinaproject.jpg"
+    },
+    {
+      "title": "Xiong’an: Techno-Natural Utopia or Authoritarian Folly?",
+      "source": "The China Project",
+      "description": "Critical perspectives on governance, planning, and technological ambition in China’s flagship new city.",
+      "url": "https://thechinaproject.com/2023/05/04/xiongan-techno-natural-utopia-or-authoritarian-folly/",
+      "label": "Read article",
+      "logo": "/logos/chinaproject.jpg"
+    }
+  ],
+  "chinese_language_publications": [
+    {
+      "title": "城市形态空间量化分析下的“超级街区”重组 | 城市中国082期",
+      "source": "城市中国",
+      "date": "March 2018",
+      "description": "Rethinking the \"Super Blocks\" through Quantitative Analysis of Urban Morphology",
+      "url": "https://mp.weixin.qq.com/s/vZxyOycee5-R1CUewj_5Ug",
+      "label": "Read article"
+    },
+    {
+      "title": "创新型新城的城市设计“基因”：新区的城市设计如何适应日新月异的科技发展和未来的工作模式",
+      "source": "时代建筑",
+      "date": "October 2024",
+      "description": "The urban design genes of new innovation cities",
+      "url": "https://mp.weixin.qq.com/s/PYx7qhwFuZ1FprCiBC4RzQ",
+      "label": "Read article"
+    }
+  ]
+}

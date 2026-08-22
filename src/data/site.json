@@ -1,0 +1,51 @@
+{
+  "name": "Andrew Stokols",
+  "first_name": "Andrew",
+  "last_name": "Stokols",
+  "title": "Assistant Professor",
+  "institution": "Singapore Management University",
+  "department": "College of Integrative Studies",
+  "tagline": "Research on digital infrastructure, urban political economy, and the making of cities across China and Southeast Asia.",
+  "email": "astokols@smu.edu.sg",
+  "location": "Singapore",
+  "substack_name": "Sinocities",
+  "substack_url": "https://sinocities.org",
+  "smu_profile_url": "https://cis.smu.edu.sg/faculty/profile/8251/andrew-stokols",
+  "scholar_url": "https://scholar.google.com/citations?user=weSq-VQAAAAJ&hl=en",
+  "linkedin_url": "https://www.linkedin.com/in/astokols/",
+  "orcid_url": "https://orcid.org/0000-0002-8501-4780",
+  "cv_url": "/cv.pdf",
+  "bio": [
+    "I am an Assistant Professor of urban studies at Singapore Management University. My work sits at the intersection of urban studies, political economy, and science and technology studies, with a focus on how digital systems become grounded in land, energy, governance, and place.",
+    "Much of my research examines China, alongside comparative work on Southeast Asia. I study data centers, cloud infrastructure, smart urbanism, AI diffusion, and the institutional ecosystems through which new technologies are governed.",
+    "Alongside academic writing, I also work in public-facing formats including essays, maps, talks, and media appearances."
+  ],
+  "research_interests": [
+    "Urban political economy",
+    "Geopolitics of infrastructure",
+    "Chinese cities",
+    "Southeast Asia",
+    "AI infrastructure",
+    "Science and technology studies"
+  ],
+  "education": [
+    {
+      "year": "2024",
+      "degree": "PhD",
+      "field": "Political Economy of Urban Development",
+      "institution": "Massachusetts Institute of Technology"
+    },
+    {
+      "year": "2017",
+      "degree": "MA",
+      "field": "Urban Planning",
+      "institution": "Harvard University Graduate School of Design"
+    },
+    {
+      "year": "2010",
+      "degree": "BA",
+      "field": "History",
+      "institution": "University of California, Berkeley"
+    }
+  ]
+}

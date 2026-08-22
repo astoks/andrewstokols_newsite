@@ -1,0 +1,70 @@
+{
+  "highlighted": [
+    {
+      "title": "The Cloud Conundrum",
+      "source": "The Wire China",
+      "date": "2024",
+      "description": "Feature on AI, export controls, and cloud infrastructure competition, including discussion of China's East-West Data Corridor and national computing strategy.",
+      "url": "https://www.thewirechina.com/2024/10/13/the-cloud-conundrum-ai/",
+      "logo": "/logos/wirechina.png"
+    },
+    {
+      "title": "China Floods Put Xiong’an Vision to the Test",
+      "source": "CNN",
+      "date": "2023",
+      "description": "Reporting on environmental risks and political symbolism surrounding Xiong’an.",
+      "url": "https://edition.cnn.com/2023/08/17/china/china-floods-xiongan-hebei-xi-jinping-intl-hnk",
+      "logo": "/logos/CNN.svg"
+    },
+    {
+      "title": "China’s Massive Climate Migration Program",
+      "source": "Bloomberg",
+      "date": "2021",
+      "description": "Analysis of large-scale relocation and environmental governance in China.",
+      "url": "https://www.bloomberg.com/news/articles/2021-07-17/china-is-carrying-out-the-world-s-largest-climate-migration-program",
+      "logo": "/logos/bloomberg.png"
+    },
+    {
+      "title": "Chinese Self-Driving Taxis Expand in Wuhan and Beijing",
+      "source": "Marketplace",
+      "date": "2024",
+      "description": "Coverage of autonomous vehicle deployment and smart mobility in Chinese cities.",
+      "url": "https://www.marketplace.org/story/2024/11/19/chinese-self-driving-taxis-cars-wuhan-beijing-china-robot-cab",
+      "logo": "/logos/marketplace.svg"
+    }
+  ],
+  "items": [
+    {
+      "title": "The Unlikely Place at the Center of China’s AI Boom",
+      "source": "Wired",
+      "date": "21 Aug 2026",
+      "description": "Reporting on the unexpected place at the center of China’s artificial-intelligence boom.",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "logo": "/logos/wired.png"
+    },
+    {
+      "title": "China goes rural with data centres in quest to power AI",
+      "source": "France 24",
+      "date": "19 Aug 2026",
+      "description": "Coverage of China’s rural data-centre expansion and its role in powering AI.",
+      "url": "https://www.france24.com/en/live-news/20260819-china-goes-rural-with-data-centres-in-quest-to-power-ai",
+      "logo": "/logos/France24.png"
+    },
+    {
+      "title": "Trump and Xi’s urban dreams confront reality",
+      "source": "Semafor",
+      "date": "29 Jun 2026",
+      "description": "Coverage of the political and urban-development realities confronting Trump’s and Xi’s visions.",
+      "url": "https://www.semafor.com/article/06/29/2026/trump-and-xis-urban-dreams-confront-reality",
+      "logo": "/logos/Semafor_logo.png"
+    },
+    {
+      "title": "Strategic Snapshot: China’s AI Ambitions",
+      "source": "Jamestown Foundation",
+      "date": "2025",
+      "description": "Overview of China’s national AI strategy and geopolitical positioning.",
+      "url": "https://jamestown.org/report/strategic-snapshot-chinas-ai-ambitions/",
+      "logo": "/logos/jamestown.png"
+    }
+  ]
+}

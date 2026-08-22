@@ -1,0 +1,27 @@
+{
+  "items": [
+    
+    {
+      "title": "Atlas of Chinese Innovation",
+      "label": "Data project",
+      "description": "Maps where industrial policy actually lands across six priority sectors and four infrastructure layers in all 369 prefectures.",
+      "image": "/images/data/atlas-of-chinese-innovation.png",
+      "url": "https://atlas.sinocities.org/"
+    },
+    {
+      "title": "China's Local Government Financing Vehicles",
+      "label": "Data project",
+      "description": "A data project examining China's local government financing vehicles and their role in urban development, infrastructure, and public finance.",
+      "image": "/projects/chinalgfv/chinalgfv.png",
+      "url": "https://astoks.github.io/lgfvnetworks/"
+    }
+    ,
+    {
+      "title": "Singapore's Overseas Property Empire",
+      "label": "Data project",
+      "description": "Singapore has quietly become a global property empire. Through its sovereign investment vehicles — principally Temasek, and to a lesser degree GIC — Singaporean state capital controls a vast global real estate portfolio stretching across major urban regions in Asia, North America and Europe. This atlas is built on a two-part database: stable asset entities, each with a persistent identifier and a fixed location and classification, and a panel of annual-report observations recording status, valuation, stake and floor area as disclosed year by year. That separation is what lets the same building be followed across successive reports rather than counted twice.",
+      "image": "/projects/singapore-overseas-property-empire/preview.png",
+      "url": "https://astoks.github.io/spe/"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "projects": [
+    {
+      "title": "Can AI Be a Tool for Development in Southeast Asia?",
+      "slug": "ai-developmental-states-sea",
+      "category": "Microsoft AI Economy Institute Fellowship",
+      "year": "2026",
+      "status": "Active",
+      "summary": "Generative AI offers the prospect of technological leapfrogging for developing economies but also risks deepening inequality, displacing labor, and entrenching dependence on foreign infrastructure. Drawing on computational analysis of over 11,600 digital policies across 98 countries alongside original fieldwork in Singapore, Malaysia, and Indonesia, this project examines how states in Southeast Asia are using AI as a development instrument.",
+      "previewImage": {
+        "src": "/projects/ai-developmentalism-sea/3b_sedenak.png",
+        "alt": "Bridge and infrastructure landscape linked to Southeast Asia's digital development corridors."
+      },
+      "description": "Andrew Stokols, Jerik Cruz, Hung Vo · Singapore Management University · MIT",
+      "collaborators": ["Andrew Stokols", "Jerik Cruz", "Hung Vo"],
+      "affiliations": ["Singapore Management University", "MIT"],
+      "regions": ["Singapore", "Malaysia", "Indonesia", "ASEAN"],
+      "methods": ["Comparative fieldwork", "Policy dataset analysis", "Case study research", "Political economy analysis"],
+      "themes": ["AI governance", "Development strategy", "Digital sovereignty", "Industrial policy"],
+      "content": "Generative AI offers the prospect of technological leapfrogging for developing economies — but also risks deepening inequality, displacing labor, and entrenching dependence on foreign infrastructure. Drawing on computational analysis of over 11,600 digital policies across 98 countries alongside original fieldwork in Singapore, Malaysia, and Indonesia, this project examines how states in Southeast Asia are using AI as a development instrument. We trace how contemporary AI industrial policy reconfigures the classic East Asian developmental state model — embedding new tensions around data sovereignty, infrastructure resource allocation, and the distribution of AI's benefits between technological champions and the broader economy.\n\nAcross three structurally distinct cases — Singapore (global AI leader, city-state), Malaysia (upper-middle-income, middle-income-trap risk), and Indonesia (Southeast Asia's largest market, ~$5,000 GDP per capita) — we find that national AI trajectories are shaped by how governments navigate three fundamental tradeoffs: AI sovereignty vs. openness and the need for foreign direct investment; local resource impacts of data center infrastructure vs. national development goals; and investment in domestic AI champions vs. encouraging broad AI access across sectors, especially for SMEs.\n\nThe project is organized around two linked sub-questions. The first asks how states are constructing sovereign AI stacks through cloud policy, localization rules, model development, and regional coordination. The second examines how AI reworks classic state-business relations by shifting leverage toward foreign hyperscalers, joint ventures, and compute-intensive platforms.\n\nThe broader aim is to explain whether AI governance in Southeast Asia is producing new developmental coalitions or simply reproducing dependency through a more technologically advanced infrastructure layer.\n\nFunded by the Microsoft AI Economy Institute Fellowship (AIEI Cohort 2).",
+      "contentBlocks": [
+        {
+                  "type": "text",
+                  "title": "AI Policy Mechanisms and Tradeoffs",
+                  "content": " Combining computational  methods to examine global digital policies with in-depth case studies of three countries in Southeast Asia (Singapore, Malaysia, and Indonesia), we find that AI is reshaping the mechanisms and processes of state-led economic policy. We focus on policies in three critical areas: i.) AI governance and data regulation, ii). data center infrastructure, and iii.) application of AI to industry. We argue that the adoption of AI policies in specific national contexts is shaped by balancing of competing priorities, including: 1.) AI sovereignty vs. openness/need for foreign direct investment, 2.) balancing local resource impacts of data center infrastructure vs national development goals and 3.) prioritizing AI innovation by investment in local champions vs. encouraging broad access to AI in other sectors, especially non-digital and small and medium enterprises.."
+                },
+        {
+          "type": "table",
+          "variant": "comparison",
+          "title": "Comparative Policy Landscape",
+          "description": "A compact cross-case summary of the institutional and infrastructural contrasts shaping AI development in Singapore, Malaysia, and Indonesia.",
+          "headerColors": ["#112235", "#ea3945", "#347457", "#b98305"],
+          "columns": ["Dimension", "Singapore 🇸🇬", "Malaysia 🇲🇾", "Indonesia 🇮🇩"],
+          "rows": [
+            [
+              "AI Strategy",
+              "NAIS 2.0 (2023) 15 priority sectors\n2026: creation of AI Council under PM",
+              "AI Roadmap 2021-25\n2025: National AI Office created\nFragmented responsibility",
+              "Strategi Nasional 2020-45\nNo binding law"
+            ],
+            [
+              "Data Governance",
+              "2012 PDPA\nLight-touch; IMDA, global frameworks",
+              "PDP Act (2010) + sovereignty\ndebate ongoing",
+              "PDP Law (2022)\nNo supervisory body"
+            ],
+            [
+              "Infrastructure",
+              "700 MW Jurong Island DC\nHigh efficiency standards",
+              "5.8 GW Johor; boom\nhitting resource limits",
+              "Batam emerging; $1.7B+\nMS investment; energy gap"
+            ],
+            [
+              "FDI Strategy",
+              "Open; EDB-led COEs\n'Trusted hub' positioning",
+              "FDI + sovereignty\ntensions; YTL and Nvidia partnership",
+              "Hyper-reliant on\nforeign firms for talent"
+            ],
+            [
+              "Key Risk",
+              "Small market;\nland/energy limits",
+              "Brain drain; focus on infrastructure over\nattracting international talents",
+              "Premature de-industrialization;\nconsumption ≠ innovation"
+            ]
+          ],
+          "caption": "Illustrative comparison table based on the project’s current case framing."
+        },
+        {
+          "type": "image",
+          "src": "/projects/ai-developmentalism-sea/asean_dc_capacity_chart_2.jpg",
+          "alt": "Chart showing ASEAN data center capacity.",
+          "caption": "ASEAN nations are seeing significant growth in data center capacity."
+        },
+        {
+          "type": "image",
+          "src": "/projects/ai-developmentalism-sea/AI Developmental States in SE Asia_April 10 pres (1).jpg",
+          "alt": "Presentation slide on AI developmental states in Southeast Asia.",
+          "caption": "Status of cloud regions by major providers in ASEAN."
+        },
+        {
+          "type": "image",
+          "src": "/projects/ai-developmentalism-sea/3b_sedenak.png",
+          "alt": "Infrastructure landscape in the 3B Sedenak region, illustrating Southeast Asia’s AI development corridor.",
+          "caption": "View of hyperscale data centers in Sedenak Tech Park in Johor."
+        },
+        {
+          "type": "image",
+          "src": "/projects/ai-developmentalism-sea/Johor1.jpg",
+          "alt": "View of infrastructure development in Johor connected to regional data center expansion.",
+          "caption": "Johor has emerged as a critical site for data center and infrastructure expansion tied to Singapore’s wider digital ecosystem."
+        },
+        {
+          "type": "image",
+          "src": "/projects/ai-developmentalism-sea/Bangkok-EEC_with urban.jpg",
+          "alt": "Map of EEC showing existing and new investments.",
+          "caption": "Map of EEC showing existing and new investments."
+        },
+        {
+          "type": "image",
+          "src": "/projects/ai-developmentalism-sea/bridge4_swamp.jpg",
+          "alt": "Bridge Data Center under construction in a mangrove swamp in Chonburi.",
+          "caption": "Bridge Data Center under construction in a mangrove swamp in Chonburi (author)"
+        },
+        {
+          "type": "text",
+          "title": "SEA AI Upskilling Tracker",
+          "content": "As leading cloud companies invest in Southeast Asia's AI infrastructure, upskilling initiatives have been the major form of commitment made to host countries in return for facilitating investment. While the commitments are impressive in their ambition, few of them offer any accountability mechanisms or implementation tracking, leaving questions about how effective such initiatives will be. Furthermore, many of these programs function as certification programs, which could lock countries into some form of dependency on certain cloud providers. However, host governments are also developing their own broader skilling initiatives."
+        },
+        {
+          "type": "link",
+          "label": "View on GitHub",
+          "url": "https://github.com/astoks/sea-ai-tracker"
+        },
+        {
+          "type": "iframe",
+          "src": "https://astoks.github.io/sea-ai-tracker"
+        },
+        {
+          "type": "text",
+          "title": "ASEAN AI Investment Tracker",
+          "content": "This tracker follows major AI-related investments across Southeast Asia, offering a companion view to the upskilling material above. It helps surface which firms are investing, where projects are being announced, and how capital, infrastructure, and national development priorities are being linked across the region."
+        },
+        {
+          "type": "link",
+          "label": "Open ASEAN AI Investment Tracker",
+          "url": "https://astoks.github.io/sea-ai-tracker/asean-investment-tracker.html"
+        },
+        {
+          "type": "iframe",
+          "src": "https://astoks.github.io/sea-ai-tracker/asean-investment-tracker.html"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "label": "Microsoft AI Economy Institute",
+          "url": "https://www.microsoft.com/en-us/research/articles/education-in-the-ai-economy-the-ai-economy-institutes-2025-fall-cohort/"
+        }
+      ]
+    },
+    {
+      "title": "Cyber-Physical Innovation in China",
+      "slug": "cyber-physical-innovation-china",
+      "category": "Political Economy, STS",
+      "year": "Ongoing",
+      "status": "Book manuscript in development",
+      "summary": "A study of how China’s digital systems are embedded in physical infrastructure, territorial governance, and local institutional contexts.",
+      "previewImage": {
+        "src": "/projects/chinacyberphysical/tiananmen.jpg",
+        "alt": "Digital-twin or digitally mediated view of Tiananmen and Beijing's monumental urban order."
+      },
+      "description": "This project examines the material and institutional foundations of China’s digital economy, emphasizing how cyber and physical systems co-evolve.",
+      "regions": ["China"],
+      "methods": ["Historical analysis", "case studies", "Policy analysis"],
+      "themes": ["China", "Digital infrastructure", "Urban governance", "Innovation systems"],
+      "content": "This project develops the concept of cyber-physical innovation to explain how digital technologies in China are grounded in infrastructure, land, and governance.\n\nRather than treating software and platforms as weightless systems, the project shows how digital transformation depends on highly material arrangements: energy grids, logistics systems, industrial parks, cloud campuses, local state capacity, and territorial planning regimes.\n\nIt traces the historical evolution of these systems from earlier industrial policy experiments to contemporary AI and data infrastructures, paying particular attention to how local governments broker technological upgrading through spatial development strategies.\n\nCase studies include smart cities, data centers, and autonomous systems. Together, they offer a framework for understanding how China’s innovation model works not only through firms and code, but through the co-production of digital systems and built environments.",
+      "contentBlocks": [
+        {
+          "type": "image",
+          "src": "/projects/chinacyberphysical/tiananmen.jpg",
+          "alt": "Urban image of Tiananmen and Beijing's monumental urban order.",
+          "caption": "A digital twin of Tiananmen Square reveals areas of the square invisible to surrounding buildings, reflecting perennial state concerns about surveillance, visibility of urban space, and intertwining of authoritarian governance with urban digital imaginaries."
+        },
+        {
+          "type": "text",
+          "content": "China’s digital transformation cannot be understood without accounting for the physical infrastructures that enable it. This includes a nationwide system of cloud computing infrastructure that harkens back to cold war industrial projects to develop the country’s interior, autonomous vehicle infrastructure that foreshadows new forms of urban order, smart city brains that use AI-enabled cameras to enhance traffic flow, and a series of examples of China’s unique approach to “grounded innovation.” Combining insights from Science and Technology Studies (STS), political geography, and urban studies, this book foregrounds the material and place-based nature of China’s digital economy. While there has been ongoing interest in China’s rapid urbanization and engineering prowess as well as its increasingly dynamic innovation ecosystem, there are few works that explore the relationship between these two topics: the impact of physical infrastructure on digital innovation."
+        },
+        {
+          "type": "image",
+          "src": "/projects/chinacyberphysical/chindaedwcmap.jpg",
+          "alt": "Diagram of China's East-West Data Corridor infrastructure.",
+          "caption": "The East-West Data Corridor captures the territorial scale of cloud infrastructure in China, linking data-intensive coastal demand with interior energy and land resources."
+        },
+        {
+          "type": "text",
+          "content": "The book develops the concept of cyber-physical innovation to explain how digital technologies in China are grounded in infrastructure, land, and governance. Rather than treating software and platforms as weightless systems, the project shows how digital transformation depends on highly material arrangements: data centers, electricity systems, logistics networks, industrial parks, and municipal planning institutions. Innovation emerges not only from code and venture capital, but from the alignment of territorial development strategy with technical systems."
+        },
+        {
+          "type": "image",
+          "src": "/projects/chinacyberphysical/smartpark.PNG",
+          "alt": "Smart park interface or digitally managed urban-industrial district in China.",
+          "caption": "Smart parks illustrate how industrial governance, digital management systems, and urban development are increasingly folded into the same operational landscape."
+        },
+        {
+          "type": "text",
+          "content": "A central argument is that China’s innovation model works through a dense relationship between urbanization and technological upgrading. Industrial districts, municipal platforms, and development zones function as laboratories in which digital tools are embedded into the physical organization of production and circulation. This makes the city itself a medium of innovation, not simply a backdrop for firms and entrepreneurs."
+        },
+        {
+          "type": "image",
+          "src": "/projects/chinacyberphysical/intelligentintersection2.jpeg",
+          "alt": "Intelligent intersection system in China.",
+          "caption": "AI-enabled intersections reveal how sensing, automation, and traffic governance are reworking everyday urban order at the street level."
+        },
+        {
+          "type": "image",
+          "src": "/projects/chinacyberphysical/wuhanpilotroads.jpg",
+          "alt": "Pilot autonomous vehicle road infrastructure in Wuhan.",
+          "caption": "Pilot roads in Wuhan show how autonomous mobility depends on specialized urban infrastructure as much as on advances in software and vehicle design."
+        },
+        {
+          "type": "text",
+          "content": "The project also traces how Chinese municipalities broker cyber-physical innovation through experimentation. Smart intersections, autonomous vehicle corridors, and urban control platforms are not isolated technologies; they are assembled through procurement systems, planning authority, and local developmental coalitions. In this sense, digital innovation is inseparable from the governance capacities and spatial strategies of the local state."
+        },
+        {
+          "type": "text",
+          "content": "By bringing together STS, political geography, and urban studies, the book offers a framework for understanding China’s digital economy as a cyber-physical formation. It asks how infrastructure shapes innovation, how place conditions technological possibility, and how digital systems in turn remake cities, regions, and forms of governance. The result is an account of innovation that is grounded not only in technology markets, but in land, institutions, and built environments."
+        }
+      ],
+      "images": [],
+      "links": []
+    },
+    {
+      "title": "Geopolitics of Digital Infrastructure",
+      "slug": "geopolitics-digital-infrastructure",
+      "category": "Political economy/IR",
+      "year": "2026",
+      "status": "Research agenda",
+      "summary": "Analyzing how global competition shapes the development of data centers, cloud systems, and AI infrastructure.",
+      "previewImage": {
+        "src": "/projects/geopol_digitalinfra/uschinacloudzones.jpg",
+        "alt": "Map comparing cloud zones in the United States and China."
+      },
+      "description": "This project explores how geopolitical competition between states and firms influences digital infrastructure development and spatial organization.",
+      "collaborators": ["Andrew Stokols", "Justin Kollar"],
+      "regions": ["Southeast Asia", "Global"],
+      "methods": ["Comparative policy analysis", "Infrastructure mapping", "Geopolitical analysis"],
+      "themes": ["Cloud computing", "Data centers", "Geopolitics", "AI infrastructure"],
+      "content": "This project examines the geopolitics of digital infrastructure, focusing on how investment flows, regulatory regimes, and strategic competition shape the global distribution of compute capacity.\n\nIt considers the role of both state actors and multinational firms in constructing digital territories, asking who controls strategic chokepoints in cloud regions, submarine cables, energy supply, and data governance standards.\n\nThe analysis situates Southeast Asia within broader global infrastructure networks, highlighting how countries in the region are positioned between US, Chinese, and other transnational platform ecosystems.\n\nAt stake is not only where infrastructure is built, but how control over compute, storage, and standards becomes a source of political leverage.",
+      "contentBlocks": [
+        {
+          "type": "text",
+          "content": "This project examines the geopolitics of digital infrastructure, focusing on how investment flows, regulatory regimes, and strategic competition shape the global distribution of compute capacity. It considers the role of both state actors and multinational firms in constructing digital territories, asking who controls strategic chokepoints in cloud regions, submarine cables, energy supply, and data governance standards."
+        },
+        {
+          "type": "text",
+          "title": "Geopolitical Ecologies of Cloud Capitalism in the U.S. and China",
+          "content": "This line of work explores how cloud infrastructure is reorganizing territory, state power, and ecological relations in the U.S. and China. Rather than treating cloud computing as a placeless digital layer, the project shows how it depends on highly material geographies of land, electricity, water, logistics, and industrial policy. In both countries, national computing power is being assembled through data center clusters, public-private partnerships, energy strategies, and territorial investments that bind together geopolitical rivalry and environmental transformation.\n\nThe project asks how cloud capitalism produces new forms of uneven development by concentrating compute resources in particular regions while extending dependence outward through networked infrastructures. It also highlights how national ambitions for technological leadership are increasingly mediated through ecological constraints and infrastructural bottlenecks."
+        },
+        {
+          "type": "image",
+          "src": "/projects/geopol_digitalinfra/uschinacloudzones.jpg",
+          "alt": "Map comparing cloud zones in the United States and China.",
+          "caption": "A comparative map of cloud zones helps illustrate how national computing power is assembled through uneven territorial concentration."
+        },
+        {
+          "type": "image",
+          "src": "/projects/geopol_digitalinfra/uscloud.jpg",
+          "alt": "Visual of cloud infrastructure in the United States.",
+          "caption": "The U.S. cloud geography highlights the concentration of computing infrastructure in strategic regions tied to energy, connectivity, and platform power."
+        },
+        {
+          "type": "image",
+          "src": "/projects/geopol_digitalinfra/chinacloud.jpg",
+          "alt": "Visual of cloud infrastructure in China.",
+          "caption": "China’s cloud infrastructure reflects a different territorial logic, shaped by state strategy, regional development goals, and platform-state coordination."
+        },
+        {
+          "type": "text",
+          "title": "Extended State Infrastructure Power",
+          "content": "A second strand of the project develops the concept of extended state infrastructure power to explain how states exercise influence through domestic firms that mediate between national infrastructure systems and global networks. This approach qualifies more straightforward accounts of infrastructural rivalry by showing that state power is often indirect, contingent, and routed through key corporate actors, financiers, and technical intermediaries.\n\nBy focusing on cases such as Thailand and Taiwan, this work shows how infrastructure power is shaped not only by interstate competition, but also by the institutional capacities of firms, planners, and political coalitions embedded within national development regimes. The larger implication is that digital and physical infrastructures are not just strategic assets. They are organizational fields through which geopolitical competition is translated into domestic governance, industrial upgrading, and regional spatial restructuring."
+        }
+      ],
+      "images": [],
+      "publications": [
+        {
+          "label": "Geopolitical ecologies of cloud capitalism: Territorial restructuring and the making of national computing power in the U.S. and China",
+          "journal": "Environment and Planning A: Economy and Space",
+          "url": "https://doi.org/10.1177/0308518X251369704"
+        },
+        {
+          "label": "Extended state infrastructure power in an age of networked competition: The cases of Thailand and Taiwan",
+          "journal": "Environment and Planning A: Economy and Space",
+          "url": "https://doi.org/10.1177/0308518X241280751"
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure Statecraft in Thailand",
+      "slug": "infrastructure-statecraft-thailand",
+      "category": "historical archival and geospatial research",
+      "year": "2024–2026",
+      "status": "ongoing",
+      "summary": "A historical analysis of infrastructure development and state strategy in Thailand across different geopolitical eras.",
+      "previewDescription": "",
+      "previewImage": {
+        "src": "/projects/infrastructuralstatecraftthailand/greaterbangkokplan.jpg",
+        "alt": "Planning image related to the Greater Bangkok development strategy."
+      },
+      "description": "This article analyzes how foreign infrastructure investment has functioned across three hegemonic transitions in Thailand — the American Cold War era, the Japanese developmental period, and China's contemporary high-speed rail and electric vehicle investment — as a mechanism through which both external powers and domestic elites simultaneously manage geopolitical alignments, consolidate internal authority, and reproduce spatial inequality. Drawing on archival sources, diplomatic cables, planning documents, and interviews conducted in Thailand in 2023 and 2024, the article argues that Bangkok-centric inequality has been consistently reproduced rather than challenged by successive rounds of foreign infrastructure investment — and that this reproduction reflects the active agency of Thai elites as much as the strategic priorities of donor powers.",
+      "regions": ["Thailand", "Mainland Southeast Asia"],
+      "methods": ["Historical research", "Comparative political economy", "Infrastructure analysis"],
+      "themes": ["Statecraft", "Infrastructure", "Regional integration", "Geopolitics"],
+      "content": "This project develops a genealogical account of infrastructure statecraft in Thailand across three periods: the Cold War, the era of Japanese-led industrialization, and the contemporary Chinese moment.\n\nIt examines how infrastructure projects have been used to align political, economic, and strategic objectives, showing how roads, ports, industrial corridors, and logistics systems become instruments for repositioning the state within wider regional orders.\n\nThe research highlights the layered nature of infrastructural development and its geopolitical implications. Rather than viewing contemporary projects in isolation, the project places them within longer institutional histories that continue to shape present-day policy choices.\n\nThis longer view helps explain why infrastructure remains central to Thailand’s development strategy and diplomatic positioning.",
+      "contentBlocks": [
+        {
+          "type": "text",
+          "content": "This project develops the concept of infrastructural statecraft to explain how foreign-backed infrastructure projects have repeatedly served as instruments of geopolitical alignment and domestic elite consolidation in Thailand. Rather than treating railways, ports, highways, and industrial corridors as neutral development tools, the project reads them as political technologies through which external powers and Thai state actors reorganize territory, channel capital, and reproduce uneven development."
+        },
+        {
+          "type": "image",
+          "src": "/projects/infrastructuralstatecraftthailand/thailandinfrastructuremap.jpg",
+          "alt": "Map of major infrastructure geographies and corridors in Thailand.",
+          "caption": "Map of major infrastructural corridors and zones developed through ODA."
+        },
+        {
+          "type": "text",
+          "content": "The argument unfolds across three hegemonic moments. The first is the American Cold War era, when roads, logistics networks, and military-development planning tied Thailand to US strategic priorities while deepening Bangkok’s centrality. The second is the Japanese developmental period, in which industrial estates, ports, and the Eastern Seaboard became key mechanisms for export-oriented industrialization. The third is the contemporary Chinese moment, marked by high-speed rail, EV investment, and new regional corridor visions that promise rebalancing while often extending older territorial inequalities."
+        },
+        {
+          "type": "image",
+          "src": "/projects/infrastructuralstatecraftthailand/USOM1961.jpg",
+          "alt": "Archival US Operations Mission material related to infrastructure planning in Thailand.",
+          "caption": "Archival material from the early Cold War period illustrates how development planning and geopolitical strategy were tightly coupled."
+        },
+        {
+          "type": "text",
+          "content": "A core finding of the project is that spatial inequality in Thailand has not simply survived successive development waves by accident. It has been actively reproduced through infrastructure choices that privilege Bangkok and selected growth poles, even when those projects are framed as national integration. In this sense, infrastructural statecraft is not only about foreign influence. It is also about how domestic elites selectively absorb outside capital and planning models in ways that reinforce existing hierarchies."
+        },
+        {
+          "type": "image",
+          "src": "/projects/infrastructuralstatecraftthailand/greaterbangkokplan.jpg",
+          "alt": "Planning image related to the Greater Bangkok development strategy.",
+          "caption": "Planning visions centered on Greater Bangkok help explain the long institutional history behind the concentration of infrastructure and economic power."
+        },
+        {
+          "type": "text",
+          "content": "The project combines archival research, planning documents, diplomatic records, and interviews conducted in Thailand in 2023 and 2024. Together, these materials make it possible to trace not only what infrastructure was built, but how it was justified, financed, and folded into shifting visions of sovereignty, modernization, and regional integration."
+        },
+        {
+          "type": "image",
+          "src": "/projects/infrastructuralstatecraftthailand/ThaiChinarail.jpg",
+          "alt": "Image related to Thai-Chinese rail development.",
+          "caption": "Contemporary rail diplomacy with China is analyzed as the latest phase in a longer history of infrastructural realignment."
+        },
+        {
+          "type": "text",
+          "content": "By placing contemporary projects within a longer genealogy, the article argues that Thailand’s infrastructure politics cannot be understood through a simple succession of external hegemonies. What persists across these periods is a pattern in which international capital, technical expertise, and geopolitical partnership are repeatedly translated through domestic political bargains. That is why infrastructure remains such a powerful lens for understanding both Thailand’s development strategy and its changing position in regional order."
+        }
+      ],
+      "images": [],
+      "links": []
+    },
+    {
+      "title": "Techno-Natural Urbanism",
+      "slug": "techno-natural-urbanism",
+      "category": "Urban design and planning",
+      "status": "ongoing",
+      "summary": "A conceptual framework for understanding the integration of ecological systems and digital technologies in contemporary urbanism.",
+      "previewImage": {
+        "src": "/projects/technonaturalurbanism/xionganbrain.jpg",
+        "alt": "Xiong'an Brain interface or control center visualization."
+      },
+      "description": "This project develops the concept of techno-natural urbanism to analyze how cities integrate environmental and technological systems.",
+      "regions": ["Singapore", "Indonesia", "China"],
+      "methods": ["Conceptual synthesis", "Comparative case interpretation", "Urban theory"],
+      "themes": ["Urbanism", "Ecology", "Digital infrastructure", "Planning theory"],
+      "content": "This project theorizes techno-natural urbanism as a mode of urban development in which ecological and technological systems are deeply intertwined.\n\nIt draws on case studies such as Xiong’an, Singapore, and Nusantara to examine how environmental governance, digital infrastructure, and urban design are integrated into singular planning visions.\n\nThe project asks how sensors, platforms, green infrastructure, and climate-adaptive design are assembled not as separate systems, but as mutually constitutive components of contemporary urban development.\n\nThe work contributes to debates in urban political ecology, STS, and planning theory by offering a vocabulary for analyzing cities where nature and technology are co-produced through planning, finance, and governance.",
+      "contentBlocks": [
+        {
+          "type": "text",
+          "content": "Techno-natural urbanism is a framework for understanding how ecological design, digital infrastructures, and state development visions are increasingly assembled into a single urban project. Rather than treating nature and technology as separate domains, this project examines how they are co-produced through planning, finance, infrastructure, and representation."
+        },
+        {
+          "type": "image",
+          "src": "/projects/technonaturalurbanism/gardensbybay.jpg",
+          "alt": "Gardens by the Bay in Singapore.",
+          "caption": "Singapore's Gardens by the Bay exemplifies the purposeful fusion of ecological landscapes with digital technology into a symbol of national-development imaginaries."
+        },
+        {
+          "type": "text",
+          "content": "One key case is Singapore, where projects such as Gardens by the Bay help stage the city as both ecological model and technological showroom. In this context, greenery is not simply decorative. It is embedded within broader efforts to project expertise in sustainability, infrastructure, and urban solutions outward to global audiences."
+        },
+        {
+          "type": "image",
+          "src": "/projects/technonaturalurbanism/supertrees.JPEG",
+          "alt": "Supertrees at Gardens by the Bay in Singapore.",
+          "caption": "The Supertrees feature solar panels and heat waste exhaust system (Author, 2023)."
+        },
+        {
+          "type": "image",
+          "src": "/projects/technonaturalurbanism/Xiong'an Map.jpg",
+          "alt": "Map of Xiong’an New Area.",
+          "caption": "Xiong’an New Area provides a second key case for understanding how ecological planning, digital governance, and ideological ambition converge in a new urban territory."
+        },
+        {
+          "type": "text",
+          "content": "A second major case is Xiong’an New Area, where ecological civilization, smart infrastructure, and new planning doctrines are fused into a high-visibility experiment in urban ideology. The project reads Xiong’an not only as a new city, but as a political showcase in which environmental stewardship, technological modernization, and state vision are articulated together."
+        },
+        {
+          "type": "image",
+          "src": "/projects/technonaturalurbanism/xionganbrain.jpg",
+          "alt": "Xiong'an Brain interface or control center visualization.",
+          "caption": "The idea of a digital urban \"brain\" captures how ecological management, data systems, and administrative control are increasingly imagined as parts of a single urban platform."
+        },
+        {
+          "type": "image",
+          "src": "/projects/technonaturalurbanism/WangchanValley.jpg",
+          "alt": "Wangchan Valley development landscape in Thailand.",
+          "caption": "Wangchan Valley extends the comparison into Thailand, where aspirations for Thailand 4.0 are layered onto earlier ideologies such as the Royalist-promoted sufficiency economy model."
+        },
+        {
+          "type": "text",
+          "content": "The broader comparison asks how different states mobilize landscapes, ecological imagery, and digital systems to materialize distinct development imaginaries. Across Singapore, Xiong’an, and Wangchan Valley, the project traces how wetlands, forests, parks, sensor systems, energy infrastructure, and masterplanned districts are brought together to symbolize desirable futures while also organizing investment and territorial control."
+        },
+        {
+          "type": "text",
+          "content": "By developing the concept of techno-natural urbanism, the project contributes a vocabulary for analyzing urbanism in which digital infrastructures, environmental systems, and political ideology are no longer separable. It speaks to debates in urban political ecology, STS, and planning theory by showing how nature itself is increasingly redesigned as infrastructure, interface, and national symbol."
+        },
+        {
+          "type": "image",
+          "src": "/projects/technonaturalurbanism/Wangchan_elephants.jpg",
+          "alt": "Elephants represented within the Wangchan Valley landscape.",
+          "caption": "The Wangchan Valley case underscores how ecological imagery and biodiversity narratives can be folded into innovation-led development projects (Author, 2023)."
+        }
+      ],
+      "images": [],
+      "publications": [
+        {
+          "label": "The city as showroom: Singapore and the rise of the “urban solutions” industry",
+          "journal": "Urban Studies",
+          "url": "https://doi.org/10.1177/00420980251400630"
+        },
+        {
+          "label": "A new city for a new era: Xiong’an as showcase of China’s evolving urban ideology",
+          "journal": "Cambridge Journal of Regions, Economy and Society",
+          "url": "https://doi.org/10.1093/cjres/rsaf003"
+        },
+        {
+          "label": "Landscapes of state capitalism: Reconciling the vernacular, national development imaginaries, and green capital accumulation",
+          "journal": "Singapore Journal of Tropical Geography",
+          "url": "https://doi.org/10.1111/sjtg.12574"
+        }
+      ]
+      }
+  ]
+}

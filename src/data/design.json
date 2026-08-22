@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "title": "Data center geography in the United States and China",
+      "label": "Mapping",
+      "project": "The Geopolitics of Digital Infrastructure",
+      "description": "Comparative mapping work on cloud regions, terrestrial infrastructure, and the territorial concentration of digital capacity.",
+      "src": "/projects/geopol_digitalinfra/uschinacloudzones.jpg",
+      "alt": "Map comparing cloud zones in the United States and China.",
+      "href": "/projects/geopolitics-digital-infrastructure"
+    },
+    {
+      "title": "Landscape visions in techno-natural urbanism",
+      "label": "Visual research",
+      "project": "Techno-natural Urbanism",
+      "description": "Images and spatial materials tracing how ecological design and digital infrastructure are assembled into singular urban development projects.",
+      "src": "/projects/technonaturalurbanism/Xiong'an Map.jpg",
+      "alt": "Project map from research on techno-natural urbanism in Xiong'an.",
+      "href": "/projects/techno-natural-urbanism"
+    },
+    {
+      "title": "Infrastructure planning and statecraft in Thailand",
+      "label": "Archival material",
+      "project": "The Infrastructural Statecraft of Thailand",
+      "description": "Maps, plans, and historical documents used to analyze infrastructure development, territorial strategy, and regional integration.",
+      "src": "/projects/infrastructuralstatecraftthailand/thailandinfrastructuremap.jpg",
+      "alt": "Infrastructure map from research on Thai statecraft and development.",
+      "href": "/projects/infrastructure-statecraft-thailand"
+    },
+    {
+      "title": "Cyber-physical urban systems and autonomous mobility",
+      "label": "Diagrammatic work",
+      "project": "China's Cyber-Physical Urbanism",
+      "description": "Visual material connecting urban testbeds, sensing systems, and the built environments required for intelligent mobility.",
+      "src": "/projects/chinacyberphysical/chindaedwcmap.jpg",
+      "alt": "Research map showing cyber-physical urban infrastructure in China.",
+      "href": "/projects/cyber-physical-innovation-china"
+    },
+    {
+      "title": "Regional infrastructure and AI developmentalism",
+      "label": "Regional analysis",
+      "project": "AI Developmental States in Southeast Asia",
+      "description": "Cartographic and photographic material showing how digital infrastructure expansion is linked to industrial policy and urban transformation.",
+      "src": "/projects/ai-developmentalism-sea/3b_sedenak.png",
+      "alt": "Regional infrastructure visualization related to AI developmentalism in Southeast Asia.",
+      "href": "/projects/ai-developmental-states-sea"
+    }
+  ]
+}
