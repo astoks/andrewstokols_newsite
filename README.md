@@ -7,7 +7,7 @@ This is a simplified Vite + React + Tailwind rebuild of the site.
 - no CMS or admin dependency
 - no runtime dependency on third-party RSS or ORCID APIs
 - all editable content lives in `src/data/*.json`
-- straightforward deploy to S3 + CloudFront after `npm run build`
+- deploys automatically on Netlify when changes are pushed to `main`
 
 ## Edit content
 Update these files:
@@ -28,4 +28,13 @@ npm run dev
 ```bash
 npm run build
 ```
-Upload the contents of `dist/` to your S3 bucket, then invalidate CloudFront.
+
+## Deploy
+The site is hosted on Netlify (`andrewstokols.netlify.app`, custom domain `andrewstokols.com`) and deploys automatically from the `main` branch of GitHub repo `astoks/andrewstokols_newsite`:
+
+- build command: `npm run build`
+- publish directory: `dist`
+
+Push to `main` and the live site updates in about a minute.
+
+`public/_redirects` sends every path to `index.html`, so URLs like `/projects/<slug>` load directly. Don't remove it.
